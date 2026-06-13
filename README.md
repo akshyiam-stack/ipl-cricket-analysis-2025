@@ -261,7 +261,7 @@ ORDER BY date
 ## 👤 Author
 
 **Akshay**
-B.Tech — Electronics and Communication Engineering
+ — Electronics and Communication Engineering
 Aspiring Data Analyst | Data Science Enthusiast
 
 ---
